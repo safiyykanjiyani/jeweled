@@ -1,9 +1,8 @@
 import os
 
-BOT_TOKEN: os.getenv('BOT_TOKEN')
-print(BOT_TOKEN)
-SPOTIFY_ID: os.getenv('SPOTIFY_ID')
-SPOTIFY_SECRET: os.getenv('SPOTIFY_SECRET')
+BOT_TOKEN: str = os.getenv('BOT_TOKEN')
+SPOTIFY_ID: str = os.getenv('SPOTIFY_ID')
+SPOTIFY_SECRET: str = os.getenv('SPOTIFY_SECRET')
 
 BOT_PREFIX = "-"
 
