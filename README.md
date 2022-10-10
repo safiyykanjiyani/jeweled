@@ -1,4 +1,4 @@
-Jeweled2 is DingoLingo clone that I forked so I could upload to the cloud for personal use. I added some security measures to prevent session hijacking via CSRF attacks. 
+Jeweled2 is DingoLingo clone that I forked so I could upload to the cloud for personal use. I added some security measures to prevent session hijacking via CSRF attacks. Since many larger bots are hit with takedowns from Youtube, hosting one is a better choice. If you'd like to add it to your server, here the [link](https://discord.com/api/oauth2/authorize?client_id=1028808186817413151&permissions=8&scope=bot). 
 
 ![](https://raw.githubusercontent.com/safiyykanjiyani/jeweled2/master/ui/dingolingo.png) 
 
