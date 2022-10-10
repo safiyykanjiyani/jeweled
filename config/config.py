@@ -1,3 +1,5 @@
+import os
+
 BOT_TOKEN: os.getenv('BOT_TOKEN')
 SPOTIFY_ID: os.getenv('SPOTIFY_ID')
 SPOTIFY_SECRET: os.getenv('SPOTIFY_SECRET')
