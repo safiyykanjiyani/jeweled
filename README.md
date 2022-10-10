@@ -1,5 +1,7 @@
 Jeweled2 is DingoLingo clone that I forked so I could upload to the cloud for personal use. I added some security measures to prevent session hijacking via CSRF attacks. 
 
+![](https://raw.githubusercontent.com/safiyykanjiyani/jeweled2/master/ui/dingolingo.png) 
+
 # Jeweled2
 A Discord music bot written in Python with support for Youtube, SoundCloud, Spotify, Bandcamp, Twitter, and custom files.
 
