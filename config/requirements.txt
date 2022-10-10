@@ -6,4 +6,3 @@ asyncio
 beautifulsoup4
 spotipy
 PyNaCl
-health-check
