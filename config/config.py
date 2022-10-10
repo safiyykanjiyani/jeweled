@@ -1,8 +1,8 @@
-BOT_TOKEN: str = ""
-SPOTIFY_ID: str = ""
-SPOTIFY_SECRET: str = ""
+BOT_TOKEN: os.getenv('BOT_TOKEN')
+SPOTIFY_ID: os.getenv('SPOTIFY_ID')
+SPOTIFY_SECRET: os.getenv('SPOTIFY_SECRET')
 
-BOT_PREFIX = "$"
+BOT_PREFIX = "-"
 
 EMBED_COLOR = 0x4dd4d0  #replace after'0x' with desired hex code ex. '#ff0188' >> '0xff0188'
 
