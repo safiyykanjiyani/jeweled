@@ -6,7 +6,7 @@ SPOTIFY_SECRET: str = os.getenv('SPOTIFY_SECRET')
 
 BOT_PREFIX = "-"
 
-EMBED_COLOR = 0x4dd4d0  #replace after'0x' with desired hex code ex. '#ff0188' >> '0xff0188'
+EMBED_COLOR = 0xb19cd9  #replace after'0x' with desired hex code ex. '#ff0188' >> '0xff0188'
 
 SUPPORTED_EXTENSIONS = ('.webm', '.mp4', '.mp3', '.avi', '.wav', '.m4v', '.ogg', '.mov')
 
