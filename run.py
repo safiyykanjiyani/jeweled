@@ -3,6 +3,9 @@ import os
 import discord
 from discord.ext import commands
 
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
 from config import config
 from musicbot.audiocontroller import AudioController
 from musicbot.settings import Settings
@@ -82,3 +85,4 @@ async def register(guild):
 
 
 bot.run(config.BOT_TOKEN, bot=True, reconnect=True)
+
